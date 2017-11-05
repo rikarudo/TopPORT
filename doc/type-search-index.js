@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"toponym","l":"ToponymDictionary"},{"p":"toponym","l":"ToponymDictionaryEntry"},{"p":"examples","l":"ToponymDictionaryExample"},{"p":"toponym","l":"ToponymDictionaryLoadException"}]
